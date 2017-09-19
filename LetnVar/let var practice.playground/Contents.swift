@@ -22,4 +22,12 @@ constantString += " and Banana"
 
 
 
+//3. VAR AND LET
+
+let variableString = "Apple"
+
+var variableString = "Fruits"
+
+
+
 
